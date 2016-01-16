@@ -1,0 +1,78 @@
+THW3
+v7
+r0
+t358209546.696539
+cCheck dependencies
+cCompileC build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/landmark.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3
+t2
+s0
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/HW3.LinkFileList
+c000000004FA9A0890000000000000073
+t1336516745
+s115
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/landmark.o
+t1336516746
+s46300
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp
+c000000004FA9A08900000000000003D1
+t1336516745
+s977
+i<iostream>
+i<string>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/main.cpp
+c000000004FA9A01E000000000000008F
+t1336516638
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies358209545#358209545#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/landmark.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s358209545.363744
+e358209546.172430
+r1
+xCompileC
+xbuild/HW3.build/Debug/HW3.build/Objects-normal/x86_64/landmark.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp358209545#358209546#0(0"0(0#0#62"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp7742357831867588608#1370"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/landmark.o"0#
+
+CCompileC build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/main.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3" normal x86_64
+s358209546.172559
+e358209546.696487
+r0
+xLd
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3
+xnormal
+xx86_64
+oUndefined symbols:
+o  "_main", referenced from:
+o      start in crt1.10.6.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@70"Link /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3358209546#358209546#0(134"Undefined symbols:  "_main", referenced from:      start in crt1.10.6.old: symbol(s) not foundcollect2: ld returned 1 exit status4(4@25""_main", referenced from:358209546#19#28#0(6@0"358209546#0#0#0#0#0"0(13@20"Start in crt1.10.6.o358209546#47#27#0(6@0"358209546#0#0#0#0#0"0(13@19"Symbol(s) not found358209546#74#24#0(6@0"358209546#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status358209546#98#36#0(6@0"358209546#0#0#0#0#0"0(0#0#0"8604523040#547"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug" -filelist "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/HW3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3"1#
+

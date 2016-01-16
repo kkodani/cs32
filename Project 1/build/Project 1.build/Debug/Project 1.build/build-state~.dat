@@ -1,0 +1,59 @@
+TProject 1
+v7
+r0
+t355626117.841047
+cCheck dependencies
+cCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/main.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1
+t1333933317
+s10608
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Project 1.LinkFileList
+c000000004F8235050000000000000081
+t1333933317
+s129
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/main.o
+t1333933317
+s67024
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp
+c000000004F823501000000000000008F
+t1333933313
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355626117#355626117#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/main.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s355626117.484814
+e355626117.822422
+r1
+xCompileC
+xbuild/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/main.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp355626117#355626117#0(0"0(0#0#64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp4069054405866779136#1536"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1" normal x86_64
+s355626117.822535
+e355626117.840989
+r1
+xLd
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1
+xnormal
+xx86_64
+lSLF07#2@82"Link /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1355626117#355626117#0(0"0(0#0#0"8603222688#601"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" -filelist "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Project 1.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1"0#
+

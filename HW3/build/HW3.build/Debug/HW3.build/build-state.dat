@@ -1,0 +1,145 @@
+THW3
+v7
+r0
+t358843037.861496
+cCheck dependencies
+cCompileC build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/landmark.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3
+t1337150237
+s24528
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/HW3.LinkFileList
+c000000004FB33B8E0000000000000073
+t1337146254
+s115
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/landmark.o
+t1337150237
+s90748
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/linear.o
+t1336534361
+s73308
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/maze.o
+t1336521657
+s68820
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/tree.o
+t1336534430
+s74468
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp
+c000000004FB34B0F000000000000065D
+t1337150223
+s1629
+i<iostream>
+i<string>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/linear.cpp
+c000000004FA9E550000000000000086D
+t1336534352
+s2157
+i<iostream>
+i<string>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/main.cpp
+c000000004FA9A01E000000000000008F
+t1336516638
+s143
+i<iostream>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/maze.cpp
+c000000004FA9B40F0000000000000271
+t1336521743
+s625
+i<iostream>
+i<stack>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/tree.cpp
+c000000004FA9E59E0000000000000D2E
+t1336534430
+s3374
+i<iostream>
+i<string>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies358843037#358843037#0(0"0(0#1#0"8599915328#0"0#
+
+CCompileC build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/landmark.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s358843037.440425
+e358843037.839073
+r1
+xCompileC
+xbuild/HW3.build/Debug/HW3.build/Objects-normal/x86_64/landmark.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp358843037#358843037#0(0"0(0#0#62"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp7742357831867588608#1370"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/landmark.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/landmark.o"0#
+
+CCompileC build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/linear.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/linear.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s358227160.914954
+e358227161.259860
+r1
+xCompileC
+xbuild/HW3.build/Debug/HW3.build/Objects-normal/x86_64/linear.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/linear.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/linear.cpp358227160#358227161#0(0"0(0#0#60"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/linear.cpp8615834240#1366"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/linear.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/linear.o"0#
+
+CCompileC build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/main.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/maze.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/maze.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s358214457.388116
+e358214457.709383
+r1
+xCompileC
+xbuild/HW3.build/Debug/HW3.build/Objects-normal/x86_64/maze.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/maze.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/maze.cpp358214457#358214457#0(0"0(0#0#58"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/maze.cpp8614889664#1362"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/maze.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/maze.o"0#
+
+CCompileC build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/tree.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/tree.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s358227230.264124
+e358227230.636418
+r1
+xCompileC
+xbuild/HW3.build/Debug/HW3.build/Objects-normal/x86_64/tree.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/tree.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/tree.cpp358227230#358227230#0(0"0(0#0#58"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/tree.cpp8613257344#1362"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/HW3-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/tree.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/tree.o"0#
+
+CLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3" normal x86_64
+s358843037.839171
+e358843037.861449
+r1
+xLd
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3
+xnormal
+xx86_64
+lSLF07#2@70"Link /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3358843037#358843037#0(0"0(0#0#0"13229804949012596#547"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug" -filelist "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/HW3.build/Debug/HW3.build/Objects-normal/x86_64/HW3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW3/build/Debug/HW3"0#
+

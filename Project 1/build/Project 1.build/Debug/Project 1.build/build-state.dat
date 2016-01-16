@@ -1,0 +1,280 @@
+TProject 1
+v7
+r0
+t355730299.680963
+cCheck dependencies
+cCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/main.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Robot.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Robot.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Player.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Player.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Arena.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Arena.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Utilities.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Utilities.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Game.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Game.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/History.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/History.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Arena.cpp
+c000000004F828C69000000000000108F
+t1333955689
+s4239
+i"Arena.h"
+i"Globals.h"
+i"Player.h"
+i"Robot.h"
+i<iostream>
+i<cstdlib>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Arena.h
+c000000004F82896C0000000000000315
+t1333954924
+s789
+i"Globals.h"
+i<string>
+i"History.h"
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Game.cpp
+c000000004F82908C0000000000000A9B
+t1333956748
+s2715
+i"Game.h"
+i"Arena.h"
+i"Player.h"
+i<iostream>
+i<cstdlib>
+i<string>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Game.h
+c000000004F823D4400000000000000F8
+t1333935428
+s248
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Globals.h
+c000000004F823B910000000000000312
+t1333934993
+s786
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/History.cpp
+c000000004F83CA5F00000000000002E8
+t1334037087
+s744
+i<iostream>
+i"History.h"
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/History.h
+c000000004F8283D20000000000000115
+t1333953490
+s277
+i"Globals.h"
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Player.cpp
+c000000004F8293250000000000001704
+t1333957413
+s5892
+i"Player.h"
+i"Globals.h"
+i<cstdlib>
+i<iostream>
+i"Arena.h"
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Player.h
+c000000004F823856000000000000024E
+t1333934166
+s590
+i<string>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Robot.cpp
+c000000004F82434A000000000000047C
+t1333936970
+s1148
+i"Robot.h"
+i"Arena.h"
+i<cstdlib>
+i<iostream>
+i"Globals.h"
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Robot.h
+c000000004F82434A000000000000013E
+t1333936970
+s318
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Utilities.cpp
+c000000004F8257DC000000000000055C
+t1333942236
+s1372
+i"Globals.h"
+i<windows.h>
+i<iostream>
+i<cstdlib>
+i<cstring>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Utilities.h
+c000000004F823B1F000000000000008D
+t1333934879
+s141
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1
+t1334037460
+s45440
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Arena.o
+t1333955690
+s82392
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Game.o
+t1333956749
+s80044
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/History.o
+t1334037088
+s70104
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Player.o
+t1333957414
+s80072
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Project 1.LinkFileList
+c000000004F827BE70000000000000393
+t1333951463
+s915
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Robot.o
+t1333954924
+s72292
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Utilities.o
+t1333942236
+s68996
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/main.o
+t1334037460
+s50048
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/globals.h
+c000000004F823B910000000000000312
+t1333934993
+s786
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp
+c000000004F83CBD300000000000002BC
+t1334037459
+s700
+i<iostream>
+i<string>
+i<cstdlib>
+i<ctime>
+i"Globals.h"
+i"Robot.h"
+i"Player.h"
+i"Arena.h"
+i"Game.h"
+i"History.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355730299#355730299#0(0"0(0#1#0"8601637568#0"0#
+
+CCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Arena.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Arena.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s355648489.640343
+e355648490.051650
+r1
+xCompileC
+xbuild/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Arena.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Arena.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Arena.cpp355648489#355648490#0(0"0(0#0#65"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Arena.cpp8616801728#1538"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Arena.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Arena.o"0#
+
+CCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Game.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Game.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s355649548.627679
+e355649549.013089
+r1
+xCompileC
+xbuild/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Game.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Game.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Game.cpp355649548#355649549#0(0"0(0#0#64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Game.cpp8618495616#1536"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Game.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Game.o"0#
+
+CCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/History.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/History.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s355729887.848082
+e355729888.460987
+r1
+xCompileC
+xbuild/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/History.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/History.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/History.cpp355729887#355729888#0(0"0(0#0#67"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/History.cpp8599984672#1542"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/History.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/History.o"0#
+
+CCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Player.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Player.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s355650213.839956
+e355650214.208676
+r1
+xCompileC
+xbuild/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Player.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Player.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Player.cpp355650213#355650214#0(0"0(0#0#66"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Player.cpp8616922176#1540"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Player.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Player.o"0#
+
+CCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Robot.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Robot.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s355647724.368963
+e355647724.826824
+r1
+xCompileC
+xbuild/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Robot.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Robot.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Robot.cpp355647724#355647724#0(0"0(0#0#65"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Robot.cpp8614889152#1538"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Robot.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Robot.o"0#
+
+CCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Utilities.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Utilities.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s355635036.210497
+e355635036.555348
+r1
+xCompileC
+xbuild/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Utilities.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Utilities.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Utilities.cpp355635036#355635036#0(0"0(0#0#69"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Utilities.cpp8599933536#1546"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/Utilities.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Utilities.o"0#
+
+CCompileC "build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/main.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s355730260.018980
+e355730260.373811
+r1
+xCompileC
+xbuild/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/main.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp355730260#355730260#0(0"0(0#0#64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp8611688224#1536"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Project 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/main.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1" normal x86_64
+s355730260.373899
+e355730260.396090
+r1
+xLd
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1
+xnormal
+xx86_64
+lSLF07#2@82"Link /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1355730260#355730260#0(0"0(0#0#0"8610663040#601"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug" -filelist "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Project 1.build/Debug/Project 1.build/Objects-normal/x86_64/Project 1.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 1/build/Debug/Project 1"0#
+

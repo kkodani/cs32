@@ -1,0 +1,239 @@
+THW1
+v7
+r0
+t356410902.850214
+cCheck dependencies
+cCompileC build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testnewSet.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testnewSet.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/newSet.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/newSet.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/HW1" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/Set.cpp
+c000000004F8E18EA00000000000005AE
+t1334712554
+s1454
+i"Set.h"
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/Set.h
+c000000004F8E2E350000000000000636
+t1334718005
+s1590
+i<string>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp
+c000000004F8E2DFF000000000000016D
+t1334717951
+s365
+i<iostream>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.h
+c000000004F8E13A300000000000001FA
+t1334711203
+s506
+i"Set.h"
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/HW1
+t1334718102
+s18600
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/HW1.LinkFileList
+c000000004F8E2E6F00000000000000E6
+t1334718063
+s230
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/Set.o
+t1334718005
+s21084
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/StudentSet.o
+t2
+s0
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/main.o
+t1334466611
+s46664
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/newSet.o
+t1334718102
+s77496
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testSet.o
+t1334718005
+s69532
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testStudentSet.o
+t1334711999
+s68376
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testnewSet.o
+t1334718102
+s70116
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/main.cpp
+c000000004F8A5833000000000000009C
+t1334466611
+s156
+i<iostream>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/newSet.cpp
+c000000004F8E2D8800000000000006DD
+t1334717832
+s1757
+i<iostream>
+i"newSet.h"
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/newSet.h
+c000000004F8E2E9600000000000006FC
+t1334718102
+s1788
+i<string>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testSet.cpp
+c000000004F8E2E35000000000000017F
+t1334718005
+s383
+i"Set.h"
+i<iostream>
+i<cassert>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testStudentSet.cpp
+c000000004F8E16BE0000000000000136
+t1334711998
+s310
+i"Set.h"
+i<iostream>
+i<string>
+i"StudentSet.h"
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testnewSet.cpp
+c000000004F8E2E960000000000000168
+t1334718102
+s360
+i"newSet.h"
+i<iostream>
+i<cassert>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies356410902#356410902#0(0"0(0#1#0"8603359168#0"0#
+
+CCompileC build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/Set.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/Set.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s356410805.108816
+e356410805.417154
+r1
+xCompileC
+xbuild/HW1.build/Debug/HW1.build/Objects-normal/x86_64/Set.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/Set.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/Set.cpp356410805#356410805#0(0"0(0#0#57"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/Set.cpp8612435680#1360"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/Set.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/Set.o"0#
+
+CCompileC build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/StudentSet.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s356410751.493334
+e356410751.833887
+r0
+xCompileC
+xbuild/HW1.build/Debug/HW1.build/Objects-normal/x86_64/StudentSet.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:6: error: 'StudentSet' has not been declared
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:6: error: ISO C++ forbids declaration of 'StudentSet' with no type
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:11: error: 'StudentSet' is not a class or namespace
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp: In function 'bool add(long unsigned int)':
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:13: error: 's' was not declared in this scope
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp: At global scope:
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:16: error: 'StudentSet' is not a class or namespace
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:16: error: non-member function 'int size()' cannot have cv-qualifier
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp: In function 'int size()':
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:18: error: 's' was not declared in this scope
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp: At global scope:
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:21: error: 'StudentSet' is not a class or namespace
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:21: error: non-member function 'void print()' cannot have cv-qualifier
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp: In function 'void print()':
+o/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:24: error: 's' was not declared in this scope
+lSLF07#2@72"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#356410751#0(1657"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:6: error: 'StudentSet' has not been declared/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:6: error: ISO C++ forbids declaration of 'StudentSet' with no type/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:11: error: 'StudentSet' is not a class or namespace/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp: In function 'bool add(long unsigned int)':/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:13: error: 's' was not declared in this scope/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp: At global scope:/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:16: error: 'StudentSet' is not a class or namespace/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:16: error: non-member function 'int size()' cannot have cv-qualifier/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp: In function 'int size()':/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:18: error: 's' was not declared in this scope/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp: At global scope:/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:21: error: 'StudentSet' is not a class or namespace/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:21: error: non-member function 'void print()' cannot have cv-qualifier/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp: In function 'void print()':/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp:24: error: 's' was not declared in this scope12(4@34"'StudentSet' has not been declared356410751#0#110#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#6#0#6#0#25"'*' has not been declared0(4@56"ISO C++ forbids declaration of 'StudentSet' with no type356410751#110#132#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#6#0#6#0#47"ISO C++ forbids declaration of '*' with no type0(4@40"'StudentSet' is not a class or namespace356410751#242#117#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#11#0#11#0#0"0(4@34"'s' was not declared in this scope356410751#468#111#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#13#0#13#0#34"'*' was not declared in this scope0(23@16"At global scope:356410751#579#83#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#0#0#0#0#0"0(4@40"'StudentSet' is not a class or namespace356410751#662#117#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#16#0#16#0#0"0(4@57"Non-member function 'int size()' cannot have cv-qualifier356410751#779#134#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#16#0#16#0#0"0(4@34"'s' was not declared in this scope356410751#1005#111#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#18#0#18#0#34"'*' was not declared in this scope0(23@16"At global scope:356410751#1116#83#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#0#0#0#0#0"0(4@40"'StudentSet' is not a class or namespace356410751#1199#117#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#21#0#21#0#0"0(4@59"Non-member function 'void print()' cannot have cv-qualifier356410751#1316#136#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#21#0#21#0#0"0(4@34"'s' was not declared in this scope356410751#1546#111#0(6@64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp356410751#24#0#24#0#34"'*' was not declared in this scope0(0#0#64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp8612560256#1374"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/StudentSet.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/StudentSet.o"1#
+
+CCompileC build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/main.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s356159411.467841
+e356159411.730428
+r1
+xCompileC
+xbuild/HW1.build/Debug/HW1.build/Objects-normal/x86_64/main.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/main.cpp356159411#356159411#0(0"0(0#0#58"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/main.cpp8613798944#1362"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/main.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/newSet.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/newSet.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s356410902.348134
+e356410902.822218
+r1
+xCompileC
+xbuild/HW1.build/Debug/HW1.build/Objects-normal/x86_64/newSet.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/newSet.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/newSet.cpp356410902#356410902#0(0"0(0#0#60"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/newSet.cpp8616543200#1366"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/newSet.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/newSet.o"0#
+
+CCompileC build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testSet.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testSet.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s356410805.107739
+e356410805.570550
+r1
+xCompileC
+xbuild/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testSet.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testSet.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testSet.cpp356410805#356410805#0(0"0(0#0#61"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testSet.cpp8612681440#1368"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testSet.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testSet.o"0#
+
+CCompileC build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testStudentSet.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testStudentSet.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s356404798.748338
+e356404799.037320
+r1
+xCompileC
+xbuild/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testStudentSet.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testStudentSet.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testStudentSet.cpp356404798#356404799#0(0"0(0#0#68"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testStudentSet.cpp8612397248#1382"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testStudentSet.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testStudentSet.o"0#
+
+CCompileC build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testnewSet.o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testnewSet.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s356410902.347144
+e356410902.827476
+r1
+xCompileC
+xbuild/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testnewSet.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testnewSet.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testnewSet.cpp356410902#356410902#0(0"0(0#0#64"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testnewSet.cpp8616708224#1374"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/HW1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/testnewSet.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/testnewSet.o"0#
+
+CLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/HW1" normal x86_64
+s356410902.827572
+e356410902.850157
+r1
+xLd
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/HW1
+xnormal
+xx86_64
+lSLF07#2@70"Link /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/HW1356410902#356410902#0(0"0(0#0#0"8616585760#547"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug" -filelist "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/HW1.build/Debug/HW1.build/Objects-normal/x86_64/HW1.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/HW1/build/Debug/HW1"0#
+

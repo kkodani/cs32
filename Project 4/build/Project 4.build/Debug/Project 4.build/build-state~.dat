@@ -1,0 +1,109 @@
+TProject 4
+v7
+r0
+t360489872.073820
+cCheck dependencies
+cCompileC "build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/Dictionary.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/Dictionary.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/interactivetester.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/interactivetester.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug/Project 4" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/Dictionary.cpp
+c000000004FC46D140000000000000B97
+t1338273044
+s2967
+i"Dictionary.h"
+i<string>
+i<list>
+i<cctype>
+i<algorithm>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/interactivetester.cpp
+c000000004FC46B080000000000000392
+t1338272520
+s914
+i"Dictionary.h"
+i<iostream>
+i<fstream>
+i<string>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug/Project 4
+t1338797072
+s40704
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/Dictionary.o
+t1338797071
+s96704
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/Project 4.LinkFileList
+c000000004FCC6C0E0000000000000115
+t1338797070
+s277
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/interactivetester.o
+t1338797071
+s82776
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/main.cpp
+c000000004FCC6BA5000000000000008F
+t1338796965
+s143
+i<iostream>
+
+N/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/anagrams/Dictionary.h
+c000000004FC46DB200000000000003A0
+t1338273202
+s928
+i<string>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies360489870#360489870#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC "build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/Dictionary.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/Dictionary.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s360489870.736980
+e360489871.511552
+r1
+xCompileC
+xbuild/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/Dictionary.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/Dictionary.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/Dictionary.cpp360489870#360489871#0(0"0(0#0#82"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/Dictionary.cpp3698373589004787712#1560"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Project 4-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Project 4-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Project 4-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Project 4-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/Dictionary.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/Dictionary.o"0#
+
+CCompileC "build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/interactivetester.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/interactivetester.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s360489870.796372
+e360489871.550854
+r1
+xCompileC
+xbuild/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/interactivetester.o
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/interactivetester.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/interactivetester.cpp360489870#360489871#0(0"0(0#0#89"/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/interactivetester.cpp8606868448#1574"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Project 4-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Project 4-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Project 4-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Project 4-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/../anagrams/interactivetester.cpp" -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/interactivetester.o"0#
+
+CCompileC "build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/main.o" "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug/Project 4" normal x86_64
+s360489871.550948
+e360489872.073671
+r1
+xLd
+x/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug/Project 4
+xnormal
+xx86_64
+lSLF07#2@82"Link /Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug/Project 4360489871#360489872#0(0"0(0#0#0"8604352416#601"    cd "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug" "-F/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug" -filelist "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Project 4.build/Debug/Project 4.build/Objects-normal/x86_64/Project 4.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/kkodani/Desktop/Kyle/Sophomore Q3/CS32/Project 4/build/Debug/Project 4"0#
+
